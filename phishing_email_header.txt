@@ -1,0 +1,32 @@
+Header Analyzed
+Email Subject: Apple Facetime Information Disclosure
+Delivery Information
+Relay Information
+Received Delay:	0 seconds
+
+
+
+SPF and DKIM Information
+Headers Found
+Header Name	Header Value
+From	domain@domain-name.com
+To	Your email
+Subject	Apple Facetime Information Disclosure
+Received Header
+From: domain@domain-name.com
+To: Your email
+Subject: Apple Facetime Information Disclosure
+
+National Security Department
+
+A vulnerability has been identified in the Apple Facetime mobile applications that allow an attacker to record calls and videos from your mobile device without your knowledge.
+
+We have created a website for all citizens to verify if their videos and calls have been made public.
+
+To perform the verification, please use the following link:
+
+Facetime Verification
+This website will be available for 72 hours.
+
+National Security Department
+Permanently forget this email header

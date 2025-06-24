@@ -1,0 +1,16 @@
+From:
+domain@domain-name.com
+
+To:
+Your email
+
+Subject:
+Supremelnvoice: New bill
+
+Supremelnvoice
+Here is the new invoice for last week's activities.
+
+Invoice Number	Amount	Click below to connect to the invoice system
+36691	1,265.68$	System Invoice Connect
+Thank you for using Supremelnvoice
+
